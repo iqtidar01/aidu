@@ -1,0 +1,14 @@
+{
+  "name": "heroku/heroku-buildpack-php",
+  "description": "AIDU Place - Residential and Commercial Luxuries Units",
+  "keywords": ["heroku", "aidu", "plae"],
+  "homepage": "https://aidu.herokuapp.com/",
+  "type": "library",
+  "license": "",
+  "authors": [
+    {
+      "name": "Iqtidar",
+      "email": "iqtikhan@yahoo.com"
+    }
+  ]
+}
