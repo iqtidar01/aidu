@@ -4,3 +4,4 @@
 #project .plan { overflow:  hidden;height:  400px;border: 2px solid #eee;}
 #project .plan .overlay {height: 400px;}
 .font16{font-size: 16px;}
+#main-slider .fullscreenbanner :after {content: '';position:absolute;background: rgba(0, 0, 0, .2);border-radius: 5px;top: 0;right: 0;bottom: 0;left: 0;}
