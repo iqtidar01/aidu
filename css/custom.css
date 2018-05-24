@@ -1,7 +1,0 @@
-.navbar-brand.logo{color:  #fff;font-size:  30px;}
-.navbar-brand.logo span{font-weight: 900;font-family:  "Arial Black", sans-serif;font-size: 34px;color: #82b440;}
-#navigation.affix .navbar-brand.logo{color: #000;}
-#project .plan { overflow:  hidden;height:  400px;border: 2px solid #eee;}
-#project .plan .overlay {height: 400px;}
-.font16{font-size: 16px;}
-#main-slider .fullscreenbanner :after {content: '';position:absolute;background: rgba(0, 0, 0, .2);border-radius: 5px;top: 0;right: 0;bottom: 0;left: 0;}
